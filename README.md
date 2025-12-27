@@ -12,7 +12,7 @@ The focus is on **data analysis**, not prediction.
 This visualization shows stock price movement along with
 20-day and 50-day moving averages to identify trend changes.
 
-![Moving Average Analysis]()
+![Moving Average Analysis](Figure_1.png)
 
 ---
 
